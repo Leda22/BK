@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    background-color: #000000;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.header_logo{
+    display: flex;
+    height: 80px;
+    width: 100px; 
+    padding: 10px;
+}
+.header_search{
+    display: flex;
+    width: 20%;
+}
+.header_btns{
+    display: flex;
+    width: 40%;
+    padding: 10px;
+    justify-content: space-between;
+}
